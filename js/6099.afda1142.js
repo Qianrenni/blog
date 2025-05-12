@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[6099],{6099:function(n,r,e){e.r(r),r["default"]="# **六、性能优化与调试**\r\n\r\n1. **性能优化**\r\n   - 避免全局变量\r\n   - 减少 DOM 操作\r\n   - 使用事件委托\r\n   - 图片懒加载与代码分割\r\n\r\n2. **调试工具**\r\n   - Chrome DevTools\r\n   - 断点调试\r\n   - 性能分析\r\n\r\n---"}}]);
+//# sourceMappingURL=6099.afda1142.js.map

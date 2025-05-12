@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[8924],{28924:function(n,r,e){e.r(r),r["default"]="## **3. 删除表：`DROP TABLE`**\r\n\r\n`DROP TABLE`语句用于从数据库中永久删除一个表及其所有数据。\r\n\r\n**语法：**\r\n\r\n```sql\r\nDROP TABLE table_name;\r\n```\r\n\r\n**示例：**\r\n\r\n```sql\r\nDROP TABLE Employees;\r\n```\r\n\r\n> **注意：** 使用`DROP TABLE`时要非常小心，因为这会永久删除表及其所有数据，无法恢复。\r\n\r\n---"}}]);
+//# sourceMappingURL=8924.f0ee0eb0.js.map

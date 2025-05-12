@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[644],{70644:function(n,r,e){e.r(r),r["default"]="## **虚存技术的引入**\r\n\r\n- **历史背景**  \r\n  早期的DOS操作系统采用覆盖技术，程序员手动管理内存。随着技术的发展，操作系统开始自动管理内存。\r\n\r\n- **交换技术**  \r\n  通过将内存中的进程暂时移到外存，释放内存空间，用于其他进程。\r\n\r\n---"}}]);
+//# sourceMappingURL=644.24dca8f8.js.map

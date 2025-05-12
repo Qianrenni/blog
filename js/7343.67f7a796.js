@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[7343],{87343:function(n,a,e){e.r(a),a["default"]="# **5. 数据操作（DML - Data Manipulation Language）**\r\n\r\n- 插入数据：`INSERT INTO table_name (column1, column2) VALUES (value1, value2);`\r\n- 更新数据：`UPDATE table_name SET column = value WHERE condition;`\r\n- 删除数据：`DELETE FROM table_name WHERE condition;`\r\n\r\n---"}}]);
+//# sourceMappingURL=7343.67f7a796.js.map

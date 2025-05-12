@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[5363],{45363:function(t,r,n){n.r(r),r["default"]="## **2.3 行为型模式（Behavioral Patterns）**\r\n\r\n- 策略模式（Strategy Pattern）\r\n- 模板方法模式（Template Method Pattern）\r\n- 观察者模式（Observer Pattern）\r\n- 状态模式（State Pattern）\r\n- 责任链模式（Chain of Responsibility Pattern）\r\n- 命令模式（Command Pattern）\r\n- 迭代器模式（Iterator Pattern）\r\n- 中介者模式（Mediator Pattern）\r\n- 备忘录模式（Memento Pattern）\r\n- 解释器模式（Interpreter Pattern）\r\n- 访问者模式（Visitor Pattern）\r\n\r\n---"}}]);
+//# sourceMappingURL=5363.d0ca929c.js.map

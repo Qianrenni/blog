@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[4218],{4218:function(n,r,e){e.r(r),r["default"]="## **实际应用场景**\r\n\r\n1. **数据库**：B+树索引、外排序  \r\n2. **操作系统**：页面置换算法（LRU）  \r\n3. **分布式系统**：一致性哈希  \r\n4. **AI**：梯度下降（优化算法）  \r\n\r\n---"}}]);
+//# sourceMappingURL=4218.beae771a.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[5125],{15125:function(n,e,r){r.r(e),e["default"]="## **2. 计算几何**\r\n\r\n- 凸包算法（Graham扫描）  \r\n- 最近点对问题（分治法）"}}]);
+//# sourceMappingURL=5125.ab62f2f6.js.map

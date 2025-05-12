@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[408],{90408:function(e,n,l){l.r(n),n["default"]="## **4.3 排序**\r\n\r\n- ORDER BY：`SELECT * FROM table_name ORDER BY column ASC/DESC;`"}}]);
+//# sourceMappingURL=408.4f66c498.js.map

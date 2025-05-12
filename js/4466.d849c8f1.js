@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[4466],{34466:function(n,e,u){u.r(e),e["default"]="## **3. 总结**\r\n\r\n- **进程** 更适合于需要强隔离、高稳定性和利用多核处理器优势的场景。\r\n- **线程** 则更适合于需要低延迟、高效资源共享和快速响应的场景。"}}]);
+//# sourceMappingURL=4466.d849c8f1.js.map

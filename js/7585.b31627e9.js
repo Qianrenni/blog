@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[7585],{67585:function(n,r,e){e.r(r),r["default"]="## **5. 文件系统的层次结构**\r\n\r\n### **5.1 用户层**\r\n\r\n用户通过文件系统提供的API（如`open()`、`read()`、`write()`等）与文件交互。\r\n\r\n### **5.2 内核层**\r\n\r\n内核中的虚拟文件系统（VFS，Virtual File System）抽象了不同文件系统的具体实现，为用户提供统一的接口。\r\n\r\n### **5.3 设备驱动层**\r\n\r\n设备驱动程序负责与具体的存储设备通信，完成数据的读写操作。\r\n\r\n### **5.4 物理存储层**\r\n\r\n物理存储设备（如硬盘、SSD）直接存储数据。\r\n\r\n---"}}]);
+//# sourceMappingURL=7585.b31627e9.js.map

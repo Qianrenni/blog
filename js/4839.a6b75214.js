@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[4839],{74839:function(n,r,e){e.r(r),r["default"]="## **局部性原理和虚拟存储特征**\r\n\r\n- **时间局部性**  \r\n  刚被访问的内存单元不久会再次被访问，常见于循环操作。\r\n\r\n- **空间局部性**  \r\n  刚被访问的内存单元的临近单元不久也会被访问，常见于程序的顺序执行。\r\n\r\n- **虚拟存储特征**  \r\n  - 逻辑内存和物理内存分离。\r\n  - 程序只有部分在内存中。\r\n  - 逻辑地址空间远大于物理地址空间。\r\n\r\n---"}}]);
+//# sourceMappingURL=4839.a6b75214.js.map

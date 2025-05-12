@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[7344],{67344:function(n,r,e){e.r(r),r["default"]="## **总结**\r\n\r\n- **集合框架** 提供了丰富的接口和实现类，用于存储和操作对象集合。\r\n- **List** 强调有序性，`Set` 强调唯一性，`Map` 强调键值对。\r\n- **工具类** 如 `Collections` 和 `Arrays` 提供了便捷的操作方法。\r\n- **泛型** 提高了代码的类型安全性和复用性。\r\n\r\n---"}}]);
+//# sourceMappingURL=7344.0a066c7f.js.map

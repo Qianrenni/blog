@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[9007],{89007:function(n,r,e){e.r(r),r["default"]="## **4. 注意事项**\r\n\r\n1. **GIL 的限制**：\r\n   - Python 的 GIL 使得多线程在 CPU 密集型任务中无法真正并行。如果需要并行计算，可以考虑使用 `multiprocessing` 模块。\r\n\r\n2. **线程安全**：\r\n   - 在多线程环境中，访问共享资源时必须加锁，否则可能会导致数据不一致。\r\n\r\n3. **调试复杂性**：\r\n   - 多线程程序的调试比单线程程序更复杂，容易出现死锁、竞争条件等问题。\r\n\r\n---"}}]);
+//# sourceMappingURL=9007.3ebe9999.js.map

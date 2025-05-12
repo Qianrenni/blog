@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[6172],{66172:function(n,r,e){e.r(r),r["default"]="# **十、综合练习与项目实践**\r\n\r\n1. **经典算法实现**\r\n   - 排序算法（冒泡排序、快速排序等）\r\n   - 查找算法（二分查找等）\r\n\r\n2. **小型项目**\r\n   - 学生成绩管理系统\r\n   - 图书管理系统\r\n   - 简单的文本编辑器\r\n\r\n3. **调试与优化**\r\n   - 使用调试工具（如 GDB）\r\n   - 性能优化技巧\r\n\r\n---"}}]);
+//# sourceMappingURL=6172.bbcae8c8.js.map

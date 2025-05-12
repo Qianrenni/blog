@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[1380],{1380:function(i,r,n){n.r(r),r["default"]="## **里氏替换原则（Liskov Substitution Principle, LSP）**\r\n\r\n**定义**：里氏替换原则表明，超类出现的地方都可以用子类来替换，且程序行为不会受到影响。换句话说，子类必须能够替换其父类而不影响程序的正确性。这一原则强调继承关系中的子类应当是对基类的合理扩展，而不是基类的特例化。\r\n\r\n**例子**：考虑一个`Bird`基类和它的子类`Ostrich`（鸵鸟）。如果`Bird`有一个飞行的方法，但`Ostrich`作为不能飞的鸟类，直接继承并使用这个方法就不符合LSP。正确做法是重新设计`Bird`类，使其不假定所有鸟类都能飞行，或者为`Ostrich`提供一个适当的实现。"}}]);
+//# sourceMappingURL=1380.975cafe3.js.map
