@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[8649],{88649:function(n,r,C){C.r(r),r["default"]="# **九、补充知识**\r\n\r\n1. **C++ 标准与规范**\r\n   - 不同版本的 C++ 标准（C++98, C++11, C++14, C++17, C++20）\r\n   - 标准的变化与新增特性\r\n\r\n2. **编码风格与最佳实践**\r\n   - 命名规范\r\n   - 代码可读性与维护性\r\n   - 避免常见错误（如内存泄漏、野指针）\r\n\r\n3. **参考资料**\r\n   - 《C++ Primer》\r\n   - 《Effective C++》\r\n   - 《The C++ Programming Language》\r\n   - 官方文档与社区资源\r\n\r\n---"}}]);
+//# sourceMappingURL=8649.86c65eb2.js.map
