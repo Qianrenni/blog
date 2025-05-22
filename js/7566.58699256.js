@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[7566],{7566:function(n,r,T){T.r(r),r["default"]="## **2. 请求方法**\r\n\r\nHTTP定义了多种请求方法，常用的有：\r\n\r\n- **GET**：请求从服务器获取指定的资源。GET请求不应在服务器上产生副作用。\r\n- **POST**：向指定资源提交数据进行处理请求（例如提交表单或者上传文件）。数据被包含在请求体中。\r\n- **PUT**：将请求的数据替换目标资源的所有当前表示。\r\n- **DELETE**：请求服务器删除指定的资源。\r\n- **HEAD**：类似于GET请求，但只请求资源的头部信息，不包括响应体。"}}]);
+//# sourceMappingURL=7566.58699256.js.map

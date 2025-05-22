@@ -1,0 +1,1 @@
+{"version":3,"file":"js/7502.ddd8391a.js","mappings":"oHAAA,iK","sources":["webpack://myblog/./src/assets/md/wang-luo-gong-cheng/content/006-2 路由选择.md"],"sourcesContent":["export default \"## **2. 路由选择**\\r\\n\\r\\n一旦数据包准备好了，接下来就是选择一条通往目标地址的路径。这通常涉及到路由器的作用。路由器根据自身的路由表来决定如何转发数据包到下一个节点。路由表包含了一系列规则，指示了到达不同网络的最佳路径。数据包从一个路由器传递到另一个路由器，直到抵达目的地。\";"],"names":[],"sourceRoot":""}

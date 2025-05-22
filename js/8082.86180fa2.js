@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[8082],{78082:function(n,r,e){e.r(r),r["default"]="## **4.钓鱼攻击**\r\n\r\n- **描述**：利用欺骗性的电子邮件或其他通信方式引导用户提供个人信息、登录凭证等敏感信息。\r\n- **防御手段**：\r\n  - 提高用户的安全意识教育，识别可疑链接和邮件。\r\n  - 启用多因素认证（MFA），增加额外的安全层。\r\n  - 定期更新和维护反垃圾邮件和防病毒软件。"}}]);
+//# sourceMappingURL=8082.86180fa2.js.map

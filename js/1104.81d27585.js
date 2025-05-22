@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[1104],{61104:function(n,r,e){e.r(r),r["default"]="## **2.SQL注入**\r\n\r\n- **描述**：攻击者通过在Web表单字段或者URL查询字符串中插入恶意SQL语句，尝试操纵数据库。\r\n- **防御手段**：\r\n  - 使用参数化查询或预编译语句。\r\n  - 对输入进行严格的验证和过滤。\r\n  - 最小权限原则，确保应用对数据库的访问权限尽可能低。"}}]);
+//# sourceMappingURL=1104.81d27585.js.map

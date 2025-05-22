@@ -1,0 +1,1 @@
+{"version":3,"file":"js/7588.63c45b1b.js","mappings":"oHAAA,gK","sources":["webpack://myblog/./src/assets/md/wang-luo-gong-cheng/content/005-1 数据封装.md"],"sourcesContent":["export default \"## **1. 数据封装**\\r\\n\\r\\n当一台设备想要通过网络发送信息给另一台设备时，首先将待发送的数据分割成多个小的数据段，每个数据段都会被加上一个头部信息形成一个IP数据包。这个头部包含了源IP地址、目的IP地址、版本号、数据长度等重要信息，这些信息对于数据在网络中的传输至关重要。\";"],"names":[],"sourceRoot":""}

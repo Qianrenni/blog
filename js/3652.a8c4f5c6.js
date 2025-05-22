@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[3652],{73652:function(n,u,e){e.r(u),u["default"]="## **1. 常见场景**\r\n\r\n- Web 开发：Flask/Django。\r\n- 数据处理：爬虫（Scrapy/BeautifulSoup）、数据分析。\r\n- 自动化脚本：文件批量处理、任务自动化。\r\n- 机器学习：模型训练与部署。"}}]);
+//# sourceMappingURL=3652.a8c4f5c6.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[7183],{7183:function(e,n,r){r.r(n),n["default"]="## **5. 错误处理与控制**\r\n\r\nIP协议本身并不提供错误恢复功能，但它会在数据包头部包含校验和字段，用于检测数据包是否在传输过程中发生了损坏。此外，IP还使用TTL（Time To Live，生存时间）字段来限制数据包在网络中可以经过的最大跳数，以防止数据包无限循环于网络之中。\r\n\r\n总的来说，IP协议提供了基本的、不可靠的数据报传输服务，为全球范围内的计算机网络提供了一个基础框架。为了实现更可靠的通信，IP通常与TCP等其他协议一起使用。"}}]);
+//# sourceMappingURL=7183.7b360b03.js.map

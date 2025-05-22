@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[7053],{87053:function(e,n,u){u.r(n),n["default"]="## **2. 数据分段与重组**\r\n\r\n应用层的数据被分割成更小的单元，即TCP段或报文段。每个TCP段都包含了一个头部和一个数据部分。头部包含了源端口、目的端口、序列号、确认号等重要信息，用于确保数据能正确传输和重组。接收方根据序列号将接收到的数据段重新组装成原始消息。"}}]);
+//# sourceMappingURL=7053.b9076814.js.map

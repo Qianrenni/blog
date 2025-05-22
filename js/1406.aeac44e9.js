@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[1406],{91406:function(n,r,a){a.r(r),r["default"]="## **🧱 2、核心 API 和类**\r\n\r\n| 类/接口 | 说明 |\r\n|--------|------|\r\n| `java.lang.reflect.Proxy` | 核心类，用于生成代理对象 |\r\n| `java.lang.reflect.InvocationHandler` | 接口，用于定义代理逻辑 |\r\n| `java.lang.reflect.Method` | 表示被调用的方法对象 |\r\n\r\n---"}}]);
+//# sourceMappingURL=1406.aeac44e9.js.map

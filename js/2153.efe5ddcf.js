@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[2153],{2153:function(r,e,n){n.r(e),e["default"]="# 🌐 八、仓库管理（Repositories）\r\n\r\nMaven 默认使用 [Maven Central](https://repo1.maven.org/) 作为中央仓库。\r\n\r\n你也可以添加其他仓库：\r\n\r\n```xml\r\n<repositories>\r\n    <repository>\r\n        <id>spring-releases</id>\r\n        <url>https://repo.spring.io/release</url>\r\n    </repository>\r\n</repositories>\r\n```\r\n\r\n---"}}]);
+//# sourceMappingURL=2153.efe5ddcf.js.map

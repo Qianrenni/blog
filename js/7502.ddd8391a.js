@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[7502],{77502:function(e,n,u){u.r(n),n["default"]="## **2. 路由选择**\r\n\r\n一旦数据包准备好了，接下来就是选择一条通往目标地址的路径。这通常涉及到路由器的作用。路由器根据自身的路由表来决定如何转发数据包到下一个节点。路由表包含了一系列规则，指示了到达不同网络的最佳路径。数据包从一个路由器传递到另一个路由器，直到抵达目的地。"}}]);
+//# sourceMappingURL=7502.ddd8391a.js.map

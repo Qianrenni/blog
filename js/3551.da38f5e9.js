@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[3551],{23551:function(e,n,u){u.r(n),n["default"]="## **3. 数据传输**\r\n\r\n在整个传输过程中，数据包可能会经过许多中间节点（如路由器）。每个路由器接收到数据包后，会读取其目的IP地址，并根据路由表转发该数据包。如果某个路由器无法直接找到通往目的地的路径，它会将数据包转发给下一个合适的路由器，直到数据包最终到达目的地或因为某些原因（如TTL超时）而被丢弃。"}}]);
+//# sourceMappingURL=3551.da38f5e9.js.map

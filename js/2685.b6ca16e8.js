@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[2685],{22685:function(e,n,u){u.r(n),n["default"]="## **4. 拥塞控制**\r\n\r\n为了防止网络拥塞，TCP采用了一系列策略来调整数据发送速率。这包括慢启动、拥塞避免、快速重传和快速恢复等算法。这些机制帮助TCP动态调整其行为以适应当前网络状况，从而提高整体网络效率。"}}]);
+//# sourceMappingURL=2685.b6ca16e8.js.map

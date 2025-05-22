@@ -1,0 +1,1 @@
+{"version":3,"file":"js/2882.671c29ce.js","mappings":"oHAAA,uJ","sources":["webpack://myblog/./src/assets/md/wang-luo-gong-cheng/content/013-3 流量控制.md"],"sourcesContent":["export default \"## **3. 流量控制**\\r\\n\\r\\nTCP使用滑动窗口机制进行流量控制，确保发送方不会过快地发送数据导致接收方无法处理。接收方会在TCP头部的窗口字段中告诉发送方它目前可以接受多少数据。如果接收方的缓冲区满了，它可以缩小窗口大小，甚至将其设置为0来暂停数据的发送。\";"],"names":[],"sourceRoot":""}

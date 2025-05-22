@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[4699],{4699:function(n,r,a){a.r(r),r["default"]="# 6. Volume：持久化数据管理\r\n\r\n## 📂 挂载命名卷（Named Volume）\r\n\r\n```yaml\r\nvolumes:\r\n  - my_data:/path/in/container\r\n```\r\n\r\n## 💾 挂载本地目录（Bind Mount）\r\n\r\n```bash\r\ndocker run -v D:/data:/app/data myapp\r\n```\r\n\r\n## 🧼 管理卷\r\n\r\n```bash\r\ndocker volume ls\r\ndocker volume inspect my_data\r\ndocker volume rm my_data\r\n```\r\n\r\n---"}}]);
+//# sourceMappingURL=4699.bf99b1bd.js.map

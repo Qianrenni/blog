@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[6008],{86008:function(n,r,e){e.r(r),r["default"]='## 🧩 7、Spring 中的 AOP 与动态代理的关系\r\n\r\nSpring AOP 默认使用 JDK 动态代理（基于接口），但如果目标类没有实现接口，则会使用 **CGLIB**（继承方式实现代理）。\r\n\r\n> ✅ 如果你希望强制使用 CGLIB 代理，可以在配置中设置：\r\n\r\n```xml\r\n<aop:config proxy-target-class="true"/>\r\n```\r\n\r\n---'}}]);
+//# sourceMappingURL=6008.3ca0228e.js.map

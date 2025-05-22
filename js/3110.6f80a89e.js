@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[3110],{43110:function(n,r,e){e.r(r),r["default"]="## **7.零日攻击**\r\n\r\n- **描述**：针对尚未公开且未修补的软件漏洞发起的攻击。\r\n- **防御手段**：\r\n  - 及时安装官方发布的补丁和更新。\r\n  - 利用入侵检测/预防系统监控异常行为。\r\n  - 维持良好的备份习惯，以便快速恢复受损系统。"}}]);
+//# sourceMappingURL=3110.6f80a89e.js.map
