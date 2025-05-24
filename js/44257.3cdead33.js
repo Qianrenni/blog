@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[44257],{44257:function(t,r,n){n.r(r),r["default"]="## **2.1 创建型模式（Creational Patterns）**\r\n\r\n- 单例模式（Singleton Pattern）\r\n- 工厂方法模式（Factory Method Pattern）\r\n- 抽象工厂模式（Abstract Factory Pattern）\r\n- 建造者模式（Builder Pattern）\r\n- 原型模式（Prototype Pattern）"}}]);
+//# sourceMappingURL=44257.3cdead33.js.map

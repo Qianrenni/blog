@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[39613],{39613:function(n,r,e){e.r(r),r["default"]='## **异常处理**\r\n\r\n- `try-except-finally` 结构。\r\n- 自定义异常类。\r\n\r\n```python\r\ntry:\r\n    num = int(input("请输入一个数字: "))\r\n    result = 10 / num\r\nexcept ValueError:\r\n    print("输入无效，请输入一个数字！")\r\nexcept ZeroDivisionError:\r\n    print("除数不能为零！")\r\nelse:\r\n    print(f"结果是: {result}")\r\nfinally:\r\n    print("这是 finally 块，总会执行。")\r\n```'}}]);
+//# sourceMappingURL=39613.567f8247.js.map

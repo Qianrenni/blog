@@ -1,0 +1,1 @@
+{"version":3,"file":"js/89496.ec2d80e1.js","mappings":"qHAAA,gJ","sources":["webpack://myblog/./src/assets/md/python/content/027-1 常见场景.md"],"sourcesContent":["export default \"## **1. 常见场景**\\r\\n\\r\\n- Web 开发：Flask/Django。\\r\\n- 数据处理：爬虫（Scrapy/BeautifulSoup）、数据分析。\\r\\n- 自动化脚本：文件批量处理、任务自动化。\\r\\n- 机器学习：模型训练与部署。\";"],"names":[],"sourceRoot":""}

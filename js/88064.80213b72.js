@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[88064],{88064:function(e,n,u){u.r(n),n["default"]="## **4. 不保证可靠性**\r\n\r\nUDP并不保证数据包能够成功地到达目的地，也不保证它们会按照发送的顺序到达。如果一个数据包在网络中丢失了，UDP不会自动重传这个数据包。此外，UDP也没有机制来纠正数据包可能发生的乱序到达问题。对于需要高可靠性的应用，通常会在应用层实现相应的错误检测和纠正机制。"}}]);
+//# sourceMappingURL=88064.80213b72.js.map

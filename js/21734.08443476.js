@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[21734],{21734:function(n,r,e){e.r(r),r["default"]="## **设计模式的作用与意义**\r\n\r\n设计模式的主要作用在于提供一种标准化的方式来解决重复出现的问题，这有助于：\r\n\r\n- 提高代码的重用性，减少重复劳动。\r\n- 增强系统的灵活性和可扩展性，使得系统更易于适应变化。\r\n- 改善代码的可读性和理解性，使新加入项目的开发人员能够更快地理解项目结构。\r\n- 促进最佳实践的传播，帮助开发团队避免常见错误。\r\n\r\n---"}}]);
+//# sourceMappingURL=21734.08443476.js.map

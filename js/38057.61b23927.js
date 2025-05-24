@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[38057],{38057:function(n,r,e){e.r(r),r["default"]="## **定义**\r\n\r\n- **进程 (Process)**:\r\n  - 进程是操作系统进行资源分配和调度的基本单位。\r\n  - 每个进程都有独立的内存空间，包括代码段、数据段、堆栈等。\r\n  - 进程之间相互隔离，一个进程崩溃不会直接影响其他进程。\r\n\r\n- **线程 (Thread)**:\r\n  - 线程是进程内的执行单元，是操作系统能够进行运算调度的最小单位。\r\n  - 同一进程内的所有线程共享该进程的内存空间（包括全局变量、静态变量等）。\r\n  - 线程之间的切换开销比进程小得多。"}}]);
+//# sourceMappingURL=38057.61b23927.js.map

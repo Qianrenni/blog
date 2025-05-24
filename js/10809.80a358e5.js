@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[10809],{10809:function(n,r,e){e.r(r),r["default"]="# **十一、常见面试题与注意事项**\r\n\r\n1. **基础题**\r\n   - 数据类型、运算符优先级、指针与数组关系等\r\n\r\n2. **进阶题**\r\n   - 指针与函数参数传递、动态内存分配、结构体与联合体的应用\r\n\r\n3. **陷阱题**\r\n   - 悬空指针、野指针、未初始化变量等问题\r\n\r\n4. **代码优化**\r\n   - 如何写出高效、易读、可维护的代码\r\n\r\n---"}}]);
+//# sourceMappingURL=10809.80a358e5.js.map

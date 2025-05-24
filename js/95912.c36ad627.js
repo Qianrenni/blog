@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[95912],{95912:function(n,r,e){e.r(r),r["default"]="# 💾 十、本地仓库与远程仓库\r\n\r\n- **本地仓库**：默认位于用户目录下的 `.m2/repository` 目录\r\n- **远程仓库**：可以从中央仓库或私有仓库获取依赖\r\n\r\n---"}}]);
+//# sourceMappingURL=95912.c36ad627.js.map

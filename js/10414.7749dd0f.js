@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[10414],{10414:function(n,r,e){e.r(r),r["default"]="## **总结**\r\n\r\n- **文件操作** 提供了对文件和目录的基本操作。\r\n- **字节流** 和 **字符流** 分别用于处理二进制数据和文本数据。\r\n- **序列化** 和 **反序列化** 使得对象可以在不同环境中传递和存储。\r\n- **NIO** 提供了更高效的 I/O 操作方式，包括缓冲区、通道、文件锁和内存映射文件。\r\n\r\n---"}}]);
+//# sourceMappingURL=10414.7749dd0f.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[34731],{34731:function(r,n,e){e.r(n),n["default"]="## 🧱 HTTP 状态码分类\r\n\r\n| 分类 | 含义 |\r\n|------|------|\r\n| 1xx | 信息响应（Informational） |\r\n| 2xx | 成功响应（Success） |\r\n| 3xx | 重定向（Redirection） |\r\n| 4xx | 客户端错误（Client Error） |\r\n| 5xx | 服务器错误（Server Error） |\r\n\r\n---"}}]);
+//# sourceMappingURL=34731.e109bfda.js.map

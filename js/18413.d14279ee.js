@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[18413],{18413:function(T,n,r){r.r(n),n["default"]="## **4. 版本**\r\n\r\nHTTP经历了多个版本的发展，主要包括：\r\n\r\n- **HTTP/1.0**：最初的版本，每个请求都需要建立一个新的连接。\r\n- **HTTP/1.1**：引入了持久连接、管道化、支持虚拟主机等功能，提高了性能。\r\n- **HTTP/2**：引入了多路复用、头部压缩等特性，显著提升了数据传输效率。\r\n- **HTTP/3**：基于QUIC协议，旨在解决TCP的一些固有问题，提供更快速、更安全的连接。\r\n\r\n通过这些基本组成部分和工作机制，HTTP使得Web成为可能，允许用户浏览网页、观看视频、下载文件等。随着技术的发展，HTTP也在不断进化以满足日益增长的需求。"}}]);
+//# sourceMappingURL=18413.d14279ee.js.map

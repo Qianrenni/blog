@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[10847],{10847:function(n,r,e){e.r(r),r["default"]="## **8. 反射的优缺点**\r\n\r\n### **优点**\r\n\r\n1. **灵活性高**：可以在运行时动态加载类、创建对象、调用方法。\r\n2. **框架支持**：许多框架（如 Spring、Hibernate）依赖反射实现核心功能。\r\n3. **扩展性强**：可以通过配置文件动态加载类，而无需修改代码。\r\n\r\n### **缺点**\r\n\r\n1. **性能开销**：反射操作比直接调用方法或访问字段慢。\r\n2. **安全性问题**：反射可以绕过访问控制修饰符（如 private），可能导致安全隐患。\r\n3. **可读性差**：反射代码通常较复杂，不易理解和维护。"}}]);
+//# sourceMappingURL=10847.26eeaa58.js.map

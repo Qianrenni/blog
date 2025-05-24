@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[47937],{47937:function(n,r,u){u.r(r),r["default"]="## **6. 文件系统的挂载与卸载**\r\n\r\n### **6.1 挂载**\r\n\r\n挂载（Mount）是将一个文件系统连接到目录树的操作。挂载点是一个目录，挂载后该目录下的文件系统内容会被替换为新文件系统的内容。\r\n\r\n### **6.2 卸载**\r\n\r\n卸载（Unmount）是将文件系统从目录树中移除的操作。在卸载前，必须确保没有进程正在使用该文件系统。\r\n\r\n---"}}]);
+//# sourceMappingURL=47937.fb224f7b.js.map

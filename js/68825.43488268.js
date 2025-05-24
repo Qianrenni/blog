@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[68825],{68825:function(n,r,l){l.r(r),r["default"]="## **函数**\r\n\r\n- **定义与调用**：`def` 关键字。\r\n- **参数类型**：\r\n  - 必选参数、默认参数、可变参数（`*args` 和 `**kwargs`）。\r\n- **作用域**：局部变量与全局变量，`global` 和 `nonlocal` 关键字。\r\n  - globl: 全局变量\r\n  - nonlocal: 嵌套函数中访问外部函数的变量\r\n- **匿名函数**：`lambda` 表达式。\r\n- **递归**：递归函数的设计与优化。\r\n    使用迭代替代递归，避免栈溢出。\r\n    使用缓存（Memoization），减少重复计算。\r\n    限制递归深度，防止 RecursionError。\r\n    使用生成器，优化内存使用。\r\n    结合分治法与动态规划，提高递归效率。"}}]);
+//# sourceMappingURL=68825.43488268.js.map

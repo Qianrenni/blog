@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[69748],{69748:function(n,r,e){e.r(r),r["default"]="## **1.DDoS攻击（分布式拒绝服务攻击）**\r\n\r\n- **描述**：通过控制大量互联网上的计算机（僵尸网络）同时向目标系统发送请求，试图耗尽其资源或带宽，导致合法用户无法访问。\r\n- **防御手段**：\r\n  - 使用防火墙和入侵检测系统过滤异常流量。\r\n  - 部署内容分发网络（CDN）来分散流量。\r\n  - 实施限流策略，限制来自单一IP地址的请求数量。"}}]);
+//# sourceMappingURL=69748.fa069ddf.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[92173],{92173:function(n,r,e){e.r(r),r["default"]="## ✅ 推荐使用建议（RESTful API 场景）\r\n\r\n| 场景 | 推荐状态码 |\r\n|------|-------------|\r\n| 获取资源成功 | `200` |\r\n| 创建资源成功 | `201` |\r\n| 更新/删除成功 | `204` |\r\n| 参数错误 | `400` |\r\n| 缺少 Token / 未登录 | `401` |\r\n| 没有权限访问 | `403` |\r\n| 资源不存在 | `404` |\r\n| 请求频率过高 | `429` |\r\n| 服务器异常 | `500` |\r\n| 数据校验失败 | `422` |\r\n| 接口未实现 | `501` |\r\n\r\n---"}}]);
+//# sourceMappingURL=92173.dc87f0c4.js.map

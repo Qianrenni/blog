@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[91828],{91828:function(n,r,S){S.r(r),r["default"]="## **总结**\r\n\r\n- **数据加密** 是保护数据安全的核心，包括对称加密（AES）、非对称加密（RSA）和哈希函数（SHA）。\r\n- **数据完整性** 通过哈希函数和数字签名确保数据未被篡改。\r\n- **数据存储安全** 需要使用加盐哈希存储密码，并考虑数据库加密。\r\n- **数据传输安全** 通常依赖于 HTTPS 和 SSL/TLS。\r\n- **安全编码实践** 是防范攻击的基础。\r\n\r\n---"}}]);
+//# sourceMappingURL=91828.1bb0c9ee.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[73296],{73296:function(n,r,e){e.r(r),r["default"]="## **2. 分治法（Divide & Conquer）**\r\n\r\n- **模板**：  \r\n  1. 分解问题  \r\n  2. 解决子问题  \r\n  3. 合并结果  \r\n- **应用**：归并排序、快速排序、Strassen矩阵乘法,斐波拉契数列,跳点问题\r\n- **举例**:\r\n\r\n  ```python\r\n  def Fibonacci(n):\r\n      if n <= 1:  # 边界条件\r\n        return 1\r\n      return Fibonacci(n-1) + Fibonacci(n-2)\r\n  ```"}}]);
+//# sourceMappingURL=73296.fd2ce700.js.map

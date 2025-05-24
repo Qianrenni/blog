@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[55180],{55180:function(n,r,e){e.r(r),r["default"]="## **5. 注意事项**\r\n\r\n1. **死锁（Deadlock）**:\r\n   当两个或多个事务相互等待对方释放资源时，可能导致死锁。可以通过设置超时时间或优化事务逻辑来避免。\r\n\r\n2. **长事务的影响**:\r\n   长时间运行的事务可能会占用大量资源，降低系统性能。应尽量缩短事务的执行时间。\r\n\r\n3. **隔离级别选择**:\r\n   较高的隔离级别虽然能提供更强的一致性保障，但会增加锁竞争和性能开销。应根据实际需求选择合适的隔离级别。\r\n\r\n---"}}]);
+//# sourceMappingURL=55180.ee1f3d68.js.map

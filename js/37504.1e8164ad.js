@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[37504],{37504:function(r,n,e){e.r(n),n["default"]='# 5. Dockerfile：构建镜像的配方文件\r\n\r\n## 📝 示例 Dockerfile\r\n\r\n```Dockerfile\r\nFROM python:3.9-slim\r\nWORKDIR /app\r\nCOPY requirements.txt .\r\nRUN pip install -r requirements.txt\r\nCOPY . .\r\nCMD ["python", "app.py"]\r\n```\r\n\r\n## 🛠️ 构建镜像\r\n\r\n```bash\r\ndocker build -t my-flask-app .\r\n```\r\n\r\n---'}}]);
+//# sourceMappingURL=37504.1e8164ad.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[43472],{43472:function(n,r,t){t.r(r),r["default"]='## **4. 类型推导与自动类型**\r\n\r\n### **4.1 `auto` 关键字**\r\n`auto` 用于自动推导变量类型。\r\n```cpp\r\nauto x = 10;       // 推导为 int\r\nauto y = 3.14;     // 推导为 double\r\nauto z = "Hello";  // 推导为 const char*\r\n```\r\n\r\n### **4.2 `decltype` 的使用**\r\n`decltype` 用于获取表达式的类型。\r\n```cpp\r\nint x = 5;\r\ndecltype(x) y = 10; // y 的类型为 int\r\n```\r\n\r\n---'}}]);
+//# sourceMappingURL=43472.6d12ff53.js.map

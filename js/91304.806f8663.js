@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[91304],{91304:function(n,r,e){e.r(r),r["default"]="## **6.密码攻击**\r\n\r\n- **描述**：包括暴力破解、字典攻击等方法尝试获取用户账户的密码。\r\n- **防御手段**：\r\n  - 强制使用复杂密码，并定期更换。\r\n  - 采用双因素或多因素认证。\r\n  - 锁定策略，在多次失败登录尝试后锁定账户一段时间。"}}]);
+//# sourceMappingURL=91304.806f8663.js.map

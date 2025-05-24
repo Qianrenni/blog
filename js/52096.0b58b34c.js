@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[52096],{52096:function(n,r,e){e.r(r),r["default"]="## **3. 避免全表扫描**\r\n\r\n全表扫描意味着数据库必须遍历整个表来找到匹配的记录，这对于大型表来说是非常耗时的操作。可以通过以下方式避免全表扫描：\r\n\r\n- **确保查询条件列上有适当的索引**。\r\n- **限制返回的数据量**，使用 LIMIT 子句。\r\n- **优化查询条件**，尽量使查询条件精确化，减少不必要的计算。\r\n\r\n```sql\r\n-- 不好的例子：可能导致全表扫描\r\nSELECT * FROM employees;\r\n\r\n-- 更好的例子：利用索引减少扫描范围\r\nSELECT * FROM employees WHERE employee_id = 101;\r\n```\r\n\r\n---"}}]);
+//# sourceMappingURL=52096.0b58b34c.js.map

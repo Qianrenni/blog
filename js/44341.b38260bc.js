@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[44341],{44341:function(n,e,l){l.r(e),e["default"]="# 📁 九、多模块项目（Multi-module Project）\r\n\r\n大型项目可以划分为多个子模块，每个模块是一个独立的 Maven 项目。\r\n\r\n## 父 POM 示例\r\n\r\n```xml\r\n<modules>\r\n    <module>module-a</module>\r\n    <module>module-b</module>\r\n</modules>\r\n```\r\n\r\n---"}}]);
+//# sourceMappingURL=44341.b38260bc.js.map

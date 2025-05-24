@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[43613],{43613:function(n,e,a){a.r(e),e["default"]="## **4.1 基本查询**\r\n\r\n- 查询所有列：`SELECT * FROM table_name;`\r\n- 查询特定列：`SELECT column1, column2 FROM table_name;`\r\n- 使用别名：`SELECT column AS alias_name FROM table_name;`"}}]);
+//# sourceMappingURL=43613.f0a79040.js.map

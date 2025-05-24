@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[57639],{57639:function(n,r,e){e.r(r),r["default"]="## **5. 可靠性**\r\n\r\nTCP保证数据的可靠性主要通过以下几个方面实现：\r\n\r\n- **序列号**：每个字节都被赋予一个序列号，确保所有数据按正确的顺序到达，并允许丢失的数据段被重新发送。\r\n- **确认应答**：接收方对已成功接收的数据段发送确认信息（ACK）。如果发送方在一定时间内未收到确认，它将重新发送数据。\r\n- **校验和**：TCP头部包含一个校验和字段，用于检测数据在传输过程中是否发生了错误。"}}]);
+//# sourceMappingURL=57639.b228d2fa.js.map

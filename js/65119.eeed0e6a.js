@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[65119],{65119:function(e,n,r){r.r(n),n["default"]="## **1. 面向连接**\r\n\r\n与IP不同，TCP是一个面向连接的协议。这意味着在数据传输开始之前，TCP需要先建立一个连接。这个过程通常称为三次握手（Three-way Handshake）：\r\n\r\n- 发送方首先发送一个SYN（同步序列编号，Synchronize Sequence Numbers）包给接收方。\r\n- 接收方接收到SYN包后，会回应一个SYN-ACK（确认字符，Acknowledgement）包。\r\n- 发送方再发送一个ACK包给接收方以确认收到了SYN-ACK，至此连接建立完成。"}}]);
+//# sourceMappingURL=65119.eeed0e6a.js.map

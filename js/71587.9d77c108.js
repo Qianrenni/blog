@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[71587],{71587:function(n,r,l){l.r(r),r["default"]="## **页面置换算法**\r\n\r\n- **基本页面置换**  \r\n  查找所需页在磁盘上的位置，选择空闲页帧或使用页面置换算法选择一个“牺牲”页帧。\r\n\r\n- **FIFO算法**  \r\n  淘汰最早进入内存的页面，容易产生Belady现象。\r\n\r\n- **Optimal算法**  \r\n  理论上最优的页面置换算法，选择未来最长时间内不会访问的页面，实际无法实现。\r\n\r\n- **LRU算法**  \r\n  选择过去最长时间没有访问的页面进行置换。\r\n\r\n- **Clock算法**  \r\n  LRU的近似算法，通过访问位选择页面进行置换。\r\n\r\n- **二次机会增强算法**  \r\n  结合访问位和修改位，优先选择访问位和修改位均为0的页面换出。\r\n\r\n---"}}]);
+//# sourceMappingURL=71587.9d77c108.js.map

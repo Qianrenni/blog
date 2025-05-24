@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[68335],{68335:function(n,r,e){e.r(r),r["default"]="## **5.中间人攻击（MitM）**\r\n\r\n- **描述**：攻击者秘密地拦截并可能篡改两方之间的通信。\r\n- **防御手段**：\r\n  - 使用加密协议如HTTPS保证通信安全。\r\n  - 实施强身份验证机制，比如数字证书。\r\n  - 在公共Wi-Fi下避免处理敏感信息。"}}]);
+//# sourceMappingURL=68335.cb4ea4c0.js.map

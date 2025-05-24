@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[26165],{26165:function(n,r,e){e.r(r),r["default"]="## **3. 多线程的适用场景**\r\n\r\n- **I/O 密集型任务**：如文件读写、网络请求等。由于线程在等待 I/O 操作时会释放 GIL，因此多线程在这种场景下非常有效。\r\n- **GUI 应用程序**：保持界面响应的同时执行后台任务。\r\n- **轻量级任务**：如简单的并发任务。\r\n\r\n---"}}]);
+//# sourceMappingURL=26165.4c8594d5.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"js/83057.8d0caafa.js","mappings":"qHAAA,yI","sources":["webpack://myblog/./src/assets/md/wang-luo-gong-cheng/content/018-1 无连接.md"],"sourcesContent":["export default \"## **1. 无连接**\\r\\n\\r\\nUDP是一种无连接的协议，这意味着在发送数据之前不需要先建立连接。发送方只需将数据封装成UDP数据报并发送出去即可，无需等待接收方的确认。这种特性使得UDP具有较低的延迟，适用于对实时性要求较高的应用。\";"],"names":[],"sourceRoot":""}

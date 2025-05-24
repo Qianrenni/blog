@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[49171],{49171:function(e,n,r){r.r(n),n["default"]="## **控制流**\r\n\r\n- 条件语句（`if-elif-else`）。\r\n- 循环语句（`for` 和 `while`），包括 `break`、`continue` 和 `else` 子句。\r\n- 列表推导式和生成器表达式。\r\n\r\n```python\r\ndef generateNumber(start,end):\r\n    while start<=end:\r\n        yield start\r\n        start+=1\r\n```"}}]);
+//# sourceMappingURL=49171.1ebf6240.js.map

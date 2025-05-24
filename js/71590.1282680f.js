@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[71590],{71590:function(n,r,e){e.r(r),r["default"]="## **注释**\r\n\r\n在SQL脚本中添加注释是一个好习惯，这有助于解释代码的功能，使代码更易于维护。\r\n\r\n- **单行注释**：以两个连字符`--`开始，直到该行的末尾。例如：\r\n\r\n  ```sql\r\n  -- 这是一条单行注释\r\n  SELECT * FROM table_name; -- 另一种单行注释的位置\r\n  ```\r\n  \r\n- **多行注释**：使用`/*`开始，并以`*/`结束，可以跨越多行。例如：\r\n\r\n  ```sql\r\n  /* 这是\r\n     多行注释 */\r\n  ```"}}]);
+//# sourceMappingURL=71590.1282680f.js.map

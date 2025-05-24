@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[20118],{20118:function(a,n,r){r.r(n),n["default"]="## **总结**\r\n\r\n从 Java 8 到 Java 17，每个版本都引入了许多实用的新特性，极大地提升了开发效率和代码质量。以下是关键特性的总结：\r\n\r\n- **Java 8**：Lambda 表达式、Stream API、Optional 类。\r\n- **Java 9**：模块化系统、集合工厂方法。\r\n- **Java 10**：`var` 关键字。\r\n- **Java 15**：文本块。\r\n\r\n这些新特性不仅使 Java 更加现代化，还为开发者提供了更多的灵活性和便利性。\r\n\r\n---"}}]);
+//# sourceMappingURL=20118.a1cc8458.js.map
